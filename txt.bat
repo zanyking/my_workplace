@@ -1,0 +1,1 @@
+start "sublime_text" "%SUBLIME_HOME%/sublime_text.exe"
