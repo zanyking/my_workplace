@@ -1,1 +1,1 @@
-start "sublime_text" "%SUBLIME_HOME%/sublime_text.exe"
+start "bat exec sublime_text" "%SUBLIME_HOME%/sublime_text.exe" %1

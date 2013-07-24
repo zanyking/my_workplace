@@ -4,4 +4,4 @@
 # 
 # File: txt
 
-sublime_text "$@"
+start "sublime text" "${SUBLIME_HOME}sublime_text.exe" "$@"
